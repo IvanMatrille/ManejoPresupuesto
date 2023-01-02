@@ -1,7 +1,11 @@
+using ManejoPresupuesto.Models.Servicios;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddTransient<IRepositorioTiposCuentas, RepositorioTiposCuentas>();
+builder.Services.AddTransient<IServicioUsuario, ServicioUsuario>();
 
 var app = builder.Build();
 
