@@ -65,3 +65,6 @@ C:\Users\ivand\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0
 C:\Users\ivand\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\ivand\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\ivand\source\repos\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\ManejoPresupuesto.csproj.CopyComplete
+C:\Users\ivand\source\repos\ManejoPresupuesto\ManejoPresupuesto\obj\Debug\net6.0\scopedcss\Views\Cuentas\Index.cshtml.rz.scp.css
+C:\Users\ivand\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\ivand\source\repos\ManejoPresupuesto\ManejoPresupuesto\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

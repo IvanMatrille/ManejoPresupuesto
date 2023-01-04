@@ -1,11 +1,11 @@
 ﻿namespace ManejoPresupuesto.Models.Servicios
 {
-    public interface IServicioUsuario
+    public interface IServicioUsuarios
     {
         int ObtenerUsuarioId();
     }
 
-    public class ServicioUsuario : IServicioUsuario
+    public class ServicioUsuarios : IServicioUsuarios
     {
         public int ObtenerUsuarioId() 
         {
